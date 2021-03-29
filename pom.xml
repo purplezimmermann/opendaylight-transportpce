@@ -62,14 +62,6 @@ and is available at http://www.eclipse.org/legal/epl-v10.html INTERNAL
                     <skip>true</skip>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-javadoc-plugin</artifactId>
-                <configuration>
-                    <sourcepath>*/target/generated-sources/mdsal-binding/*</sourcepath>
-                    <excludePackageNames>*</excludePackageNames>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
 
