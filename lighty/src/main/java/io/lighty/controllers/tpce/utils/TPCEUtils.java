@@ -207,8 +207,10 @@ public final class TPCEUtils {
                     .getInstance(),
             org.opendaylight.yang.gen.v1.http.org.opendaylight.transportpce.device.renderer.rev200128
                     .$YangModuleInfoImpl.getInstance(),
+            /*
             org.opendaylight.yang.gen.v1.http.org.opendaylight.transportpce.networkmodel.rev201116
                     .$YangModuleInfoImpl.getInstance(),
+            */
             org.opendaylight.yang.gen.v1.http.org.opendaylight.transportpce.renderer.rev201125.$YangModuleInfoImpl
                     .getInstance(),
             org.opendaylight.yang.gen.v1.http.org.opendaylight.transportpce.servicehandler.rev201125.$YangModuleInfoImpl
@@ -220,7 +222,7 @@ public final class TPCEUtils {
             org.opendaylight.yang.gen.v1.gnpy.path.rev200909.$YangModuleInfoImpl.getInstance(),
             org.opendaylight.yang.gen.v1.http.org.opendaylight.transportpce.portmapping.rev201012
                     .$YangModuleInfoImpl.getInstance(),
-            org.opendaylight.yang.gen.v1.http.org.transportpce.b.c._interface.pathdescription.rev201210
+            org.opendaylight.yang.gen.v1.http.org.transportpce.b.c._interface.pathdescription.rev201126 // .rev201210
                     .$YangModuleInfoImpl.getInstance(),
             org.opendaylight.yang.gen.v1.http.org.transportpce.b.c._interface.routing.constraints.rev171017
                     .$YangModuleInfoImpl.getInstance(),
@@ -228,8 +230,10 @@ public final class TPCEUtils {
                     .$YangModuleInfoImpl.getInstance(),
             org.opendaylight.yang.gen.v1.http.org.transportpce.b.c._interface.servicepath.rev171017.$YangModuleInfoImpl
                     .getInstance(),
+            /*
             org.opendaylight.yang.gen.v1.http.org.transportpce.d._interface.ord.topology.types.rev201116
                     .$YangModuleInfoImpl.getInstance(),
+            */
             org.opendaylight.yang.gen.v1.http.transportpce.topology.rev201019.$YangModuleInfoImpl.getInstance(),
 
             org.opendaylight.yang.gen.v1.urn.ietf.params.xml.ns.yang.iana._if.type.rev170119.$YangModuleInfoImpl
